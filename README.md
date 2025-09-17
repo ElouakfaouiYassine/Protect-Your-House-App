@@ -1,4 +1,4 @@
-<img width="1080" height="1920" alt="headr2" src="https://github.com/user-attachments/assets/19363afc-7a92-4a85-9fa1-6fa11f5cf4cd" /><img width="1080" height="1920" alt="headr2" src="https://github.com/user-attachments/assets/407c23b1-dc53-4e0c-b4fd-2d8cfb2af6ef" /># 🔥 StopFire App
+# 🔥 StopFire App
 
 **Protect Your House – Battery & Fire Safety Monitoring App**
 Monitor your phone’s battery health in real time to prevent overheating and fire hazards.
