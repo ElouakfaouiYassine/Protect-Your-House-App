@@ -34,15 +34,6 @@ Monitor your phone’s battery health in real time to prevent overheating and fi
 
 ---
 
-## 🖼 Screenshots
-
-| Battery Status                     | Full Charge Alert           | Website Preview              |
-| ---------------------------------- | --------------------------- | ---------------------------- |
-| ![Battery 90%](<img width="1080" height="1920" alt="headr2" src="https://github.com/user-attachments/assets/6aae8939-75b8-4070-9a40-871f5692286b" />) | ![Full 100%](![Uploading Screenshot_20250709_004703.png…]()
-) | ![Website](docs/landing.png) |
-
----
-
 ## 🛠 Tech Stack
 
 * **Kotlin (Android)** – Main programming language
